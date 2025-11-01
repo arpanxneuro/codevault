@@ -2,11 +2,11 @@
 
 A centralized vault of coding problems and algorithmic solutions categorized by competitive programming platforms.
 
-> 🚀 Built to organize and track my problem-solving journey across LeetCode, GeeksforGeeks, HackerRank and more.
+> 🚀 Built to organize and track my problem-solving journey across LeetCode, GeeksforGeeks (GFG), HackerRank and more.
 
 ## � Quick Problem Finder
 ### By Platform
-- [GeeksforGeeks Problems](./geeksforgeeks/)
+- [GeeksforGeeks (GFG) Problems](./geeksforgeeks/)
 - [HackerRank Problems](./hackerrank/)
 - [LeetCode Problems](./leetcode/)
 
@@ -16,7 +16,7 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 
 | Platform | Problems Solved | Last Updated | Status |
 |----------|----------------|--------------|---------|
-| GeeksforGeeks | 35 | 2025-10-25 | ✅ Active |
+| GeeksforGeeks (GFG) | 35 | 2025-10-25 | ✅ Active |
 | HackerRank | 03 | 2025-09-10 | 🟡 Occasional |
 | LeetCode | 02 | 2025-07-15 | 🟡 Occasional |
 | **Total** | **40** | 2025-10-25 | 🚀 On Track |
@@ -34,7 +34,7 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 
 ## 📋 Problem Index
 
-### 🏗️ GeeksforGeeks Problems
+### 🏗️ GeeksforGeeks (GFG) Problems
 
 #### Arrays
 | Problem Statement | Repository Link | Difficulty |
@@ -120,7 +120,7 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 
 ```bash
 code-vault/
-├── geeksforgeeks/       # GeeksforGeeks problems by week
+├── geeksforgeeks/       # GeeksforGeeks (GFG) problems by week
 │   ├── w1-*/           # Week 1: Arrays & Strings
 │   ├── w2-*/           # Week 2: Matrices
 │   ├── w3-*/           # Week 3: Linked Lists
