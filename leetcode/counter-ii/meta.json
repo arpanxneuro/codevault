@@ -1,0 +1,15 @@
+{
+  "title": "counter-ii",
+  "languages": [
+    "js",
+    "ts"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    ""
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "LeetCode",
+  "solvedOn": "2025-11-14"
+}

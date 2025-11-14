@@ -1,0 +1,17 @@
+{
+  "title": "w4-p5-josephus-problem",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "recursion",
+    "data structures",
+    "algorithms"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(n)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-11-02"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "divide-a-string-into-groups-of-size-k",
+  "languages": [
+    "js"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "string",
+    "simulation"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "LeetCode",
+  "solvedOn": "2025-11-14"
+}

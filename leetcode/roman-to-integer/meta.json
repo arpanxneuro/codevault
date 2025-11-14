@@ -1,0 +1,17 @@
+{
+  "title": "18-roman-to-integer",
+  "languages": [
+    "py",
+    "ts"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "hash table",
+    "math",
+    "string"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "LeetCode",
+  "solvedOn": "2025-11-14"
+}

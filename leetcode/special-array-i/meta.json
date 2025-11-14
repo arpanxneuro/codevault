@@ -1,0 +1,14 @@
+{
+  "title": "special-array-i",
+  "languages": [
+    "js"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "array"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "LeetCode",
+  "solvedOn": "2025-11-14"
+}

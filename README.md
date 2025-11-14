@@ -1,38 +1,85 @@
-# ⚡ CodeVault
+# 🏆 Competitive Programming Solutions
 
-A centralized vault of coding problems and algorithmic solutions categorized by competitive programming platforms.
+A well-organized collection of algorithmic problems and solutions from various competitive programming platforms.
 
-> 🚀 Built to organize and track my problem-solving journey across LeetCode, GeeksforGeeks (GFG), HackerRank and more.
+## 📚 Platforms
 
-## � Quick Problem Finder
-### By Platform
-- [GeeksforGeeks (GFG) Problems](./geeksforgeeks/)
-- [HackerRank Problems](./hackerrank/)
-- [LeetCode Problems](./leetcode/)
+### [GeeksforGeeks (GFG)](./geeksforgeeks/)
+- **Total Problems Solved:** 35
+- **Last Updated:** 2025-10-25
+- **Status:** ✅ Active
 
-## �📊 Progress Dashboard
+### [HackerRank](./hackerrank/)
+- **Total Problems Solved:** 3
+- **Last Updated:** 2025-09-10
+- **Status:** 🟡 Occasional
 
-### � Solved Problems by Platform
+### [LeetCode](./leetcode/)
+- **Total Problems Solved:** 2
+- **Last Updated:** 2025-07-15
+- **Status:** 🟡 Occasional
 
-| Platform | Problems Solved | Last Updated | Status |
-|----------|----------------|--------------|---------|
-| GeeksforGeeks (GFG) | 35 | 2025-10-25 | ✅ Active |
-| HackerRank | 03 | 2025-09-10 | 🟡 Occasional |
-| LeetCode | 02 | 2025-07-15 | 🟡 Occasional |
-| **Total** | **40** | 2025-10-25 | 🚀 On Track |
+## 📈 Progress Overview
 
-### 🗓️ Weekly Progress
+### Weekly Progress
 
-| Status | Week Set | Topic Focus |
-|--------|-----------|-------------|
-| ✅ Done | Week 1 | Arrays & Strings |
-| ✅ Done | Week 2 | Matrices & Polynomials |
-| ✅ Done | Week 3 | Linked Lists |
-| 🔄 Current | Week 4 | Advanced Linked Lists |
-| ⏳ Pending | Week 5-6, 8-10 | Advanced Topics |
-| ✅ Done | Week 7 | Recursion |
+| Status | Week | Topics | Problems Solved |
+|--------|------|--------|-----------------|
+| ✅ | Week 1 | Arrays & Strings | 10 |
+| ✅ | Week 2 | Matrices & Polynomials | 8 |
+| ✅ | Week 3 | Linked Lists | 9 |
+| 🔄 | Week 4 | Advanced Linked Lists | 8 |
+| ✅ | Week 7 | Recursion | 9 |
+| ⏳ | Week 5-6 | Stacks & Queues | 0 |
+| ⏳ | Week 8-10 | Advanced Topics | 0 |
 
-## 📋 Problem Index
+## 🏗️ Project Structure
+
+```
+code-vault/
+├── geeksforgeeks/      # GeeksforGeeks problems
+│   ├── w1-p1-*/       # Week 1 Problem 1
+│   └── ...
+├── leetcode/          # LeetCode problems
+│   ├── problem-name/
+│   └── ...
+└── hackerrank/        # HackerRank problems
+    ├── problem-name/
+    └── ...
+```
+
+## 📝 Problem Documentation Format
+
+Each problem directory contains:
+- `solution.[ext]` - Implementation file
+- `README.md` - Problem documentation following the standard format:
+  - Problem Title & Platform
+  - Category & Difficulty
+  - Problem Statement
+  - Solution Approach
+  - Complexity Analysis
+  - Test Cases
+
+## 🚀 Getting Started
+
+1. Browse problems by platform or topic
+2. Each solution includes detailed explanations
+3. Solutions are organized by week and topic for structured learning
+
+## 🔄 Upcoming Features
+
+- [ ] Add more problems from LeetCode and HackerRank
+- [ ] Include unit tests for all solutions
+- [ ] Add time/space complexity analysis for each solution
+- [ ] Include alternative solutions for comparison
+
+## 📊 Statistics
+
+- **Total Problems Solved:** 40
+- **Last Updated:** 2025-10-25
+- **Current Streak:** 2 weeks
+
+## � Problem Index
 
 ### 🏗️ GeeksforGeeks (GFG) Problems
 
@@ -67,6 +114,7 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 |---|---|---|
 | Polynomial Addition | [w2-p6-plynomial-addition](./geeksforgeeks/w2-p6-plynomial-addition/) | Medium |
 | Multiply Polynomials | [w2-p7-multiply-two-polynomals0721](./geeksforgeeks/w2-p7-multiply-two-polynomals0721/) | Medium |
+| Josephus Problem | [w4-p5-josephus-problem](./geeksforgeeks/w4-p5-josephus-problem/) | Easy |
 
 #### Linked Lists
 | Problem Statement | Repository Link | Difficulty |
@@ -87,7 +135,9 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 | Insert in Sorted DLL | [w4-p1-insert-in-sorted-way-in-a-sorted-dll](./geeksforgeeks/w4-p1-insert-in-sorted-way-in-a-sorted-dll/) | Easy |
 | Delete from DLL | [w4-p2-delete-node-in-doubly-linked-list](./geeksforgeeks/w4-p2-delete-node-in-doubly-linked-list/) | Basic |
 | Reverse a DLL | [w4-p3-reverse-a-doubly-linked-list](./geeksforgeeks/w4-p3-reverse-a-doubly-linked-list/) | Easy |
-| Insert in Circular List | [w4-p4-sorted-insert-for-circular-linked-list](./geeksforgeeks/w4-p4-sorted-insert-for-circular-linked-list/) | Medium |
+| Sorted Insert in Circular List | [w4-p4-sorted-insert-for-circular-linked-list](./geeksforgeeks/w4-p4-sorted-insert-for-circular-linked-list/) | Medium |
+| Circular Linked List | [w4-p7-circular-linked-list](./geeksforgeeks/w4-p7-circular-linked-list/) | Easy |
+| Pairwise Swap in List | [w4-p8-pairwise-swap-elements-of-a-linked-list-by-swapping-data](./geeksforgeeks/w4-p8-pairwise-swap-elements-of-a-linked-list-by-swapping-data/) | Easy |
 
 #### Recursion
 | Problem Statement | Repository Link | Difficulty |
@@ -96,7 +146,6 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 | Sum of Digits | [w7-p2-sum-of-digits1742](./geeksforgeeks/w7-p2-sum-of-digits1742/) | Basic |
 | Factorial | [w7-p3-factorial5739](./geeksforgeeks/w7-p3-factorial5739/) | Basic |
 | Fibonacci Series | [w7-p4-fibonacci-series-up-to-nth-term](./geeksforgeeks/w7-p4-fibonacci-series-up-to-nth-term/) | Basic |
-| Palindrome String | [w7-p6-palindrome-string0817](./geeksforgeeks/w7-p6-palindrome-string0817/) | Basic |
 | GCD of Numbers | [w7-p7-gcd-of-two-numbers3459](./geeksforgeeks/w7-p7-gcd-of-two-numbers3459/) | Basic |
 | Power of Numbers | [w7-p8-power-of-numbers-1587115620](./geeksforgeeks/w7-p8-power-of-numbers-1587115620/) | Medium |
 | Count Substrings | [w7-p9-count-number-of-substrings4528](./geeksforgeeks/w7-p9-count-number-of-substrings4528/) | Medium |
@@ -105,18 +154,30 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 
 | Problem Statement | Repository Link | Difficulty |
 |---|---|---|
-| Reverse Array | [w1-p10-arrays-ds-reverse-an-array-of-integers](./hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers/) | Easy |
+| Arrays: Reverse an Array | [w1-p10-arrays-ds-reverse-an-array-of-integers](./hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers/) | Easy |
 | Dynamic Array | [w2-p8-dynamic-array](./hackerrank/w2-p8-dynamic-array/) | Medium |
-| Print Linked List | [w3-p10-print-the-elements-of-a-linked-list](./hackerrank/w3-p10-print-the-elements-of-a-linked-list/) | Easy |
+| Print the Elements of a Linked List | [w3-p10-print-the-elements-of-a-linked-list](./hackerrank/w3-p10-print-the-elements-of-a-linked-list/) | Easy |
 
 ### ⭐ LeetCode Problems
 
 | Problem Statement | Repository Link | Difficulty |
 |---|---|---|
-| Two Sum | [001-two-sum](./leetcode/001-two-sum/) | Easy |
-| Palindrome Number | [009-palindrome-number](./leetcode/009-palindrome-number/) | Easy |
+| Two Sum | [two-sum](./leetcode/two-sum/) | Easy |
+| Palindrome Number | [palindrome-number](./leetcode/palindrome-number/) | Easy |
+| Roman to Integer | [roman-to-integer](./leetcode/roman-to-integer/) | Easy |
+| Longest Common Prefix | [longest-common-prefix](./leetcode/longest-common-prefix/) | Easy |
+| Apply Transform Over Each Element | [apply-transform-over-each-element-in-array](./leetcode/apply-transform-over-each-element-in-array/) | Easy |
+| Array Last | [array-prototype-last](./leetcode/array-prototype-last/) | Easy |
+| Array Reduce Transformation | [array-reduce-transformation](./leetcode/array-reduce-transformation/) | Easy |
+| Counter | [counter](./leetcode/counter/) | Easy |
+| Counter II | [counter-ii](./leetcode/counter-ii/) | Easy |
+| Divide a String into Groups | [divide-a-string-into-groups-of-size-k](./leetcode/divide-a-string-into-groups-of-size-k/) | Easy |
+| Filter Elements from Array | [filter-elements-from-array](./leetcode/filter-elements-from-array/) | Easy |
+| Function Composition | [function-composition](./leetcode/function-composition/) | Easy |
+| Sleep | [sleep](./leetcode/sleep/) | Easy |
+| Special Array I | [special-array-i](./leetcode/special-array-i/) | Easy |
 
-## 📁 Repository Structure
+## � Repository Structure
 
 ```bash
 code-vault/

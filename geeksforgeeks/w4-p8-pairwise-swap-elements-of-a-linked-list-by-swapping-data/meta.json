@@ -1,0 +1,15 @@
+{
+  "title": "w4-p8-pairwise-swap-elements-of-a-linked-list-by-swapping-data",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "linked list",
+    "data structures"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-11-13"
+}

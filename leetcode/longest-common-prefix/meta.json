@@ -1,0 +1,16 @@
+{
+  "title": "longest-common-prefix",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "array",
+    "string",
+    "trie"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "LeetCode",
+  "solvedOn": "2025-11-14"
+}

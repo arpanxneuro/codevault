@@ -1,0 +1,9 @@
+{
+  "title": "Palindrome Number",
+  "difficulty": "easy",
+  "tags": ["string", "loop"],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(n)",
+  "platform": "leetcode",
+  "solvedOn": "2025-07-07"
+}

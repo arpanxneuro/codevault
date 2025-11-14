@@ -1,0 +1,16 @@
+{
+  "title": "w4-p6-sorted-insert-for-circular-linked-list",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "medium",
+  "tags": [
+    "circular-linked-list",
+    "linked list",
+    "data structures"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-11-06"
+}

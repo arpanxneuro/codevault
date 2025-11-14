@@ -1,0 +1,18 @@
+{
+  "title": "circular-linked-list",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "circular-linked-list",
+    "linked list",
+    "data structures",
+    "algorithms"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-11-13"
+}
